@@ -1,3 +1,5 @@
+package stringBuilder;
+
 class User
 {
     private final String userid;

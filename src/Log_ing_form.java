@@ -11,7 +11,7 @@ public class Log_ing_form {
 
 
         //use label to show  text/content inside the window
-        JLabel label=new JLabel("User Name : ");
+        JLabel label=new JLabel("stringBuilder.User Name : ");
         label.setBounds(100,100,200,50);
         //add the label to container for visibility
         csr.add(label);
@@ -20,7 +20,7 @@ public class Log_ing_form {
 
         JTextField jtxt=new JTextField();
         jtxt.setBounds(300,100,300,50);
-//        jtxt.setText("Enter User Name ....");
+//        jtxt.setText("Enter stringBuilder.User Name ....");
         csr.add(jtxt);
         jtxt.setFont(new Font("calibri",Font.BOLD,30));
 
