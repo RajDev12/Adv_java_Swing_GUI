@@ -18,12 +18,14 @@ public class CheckBox_Button {
         JCheckBox ch4= new JCheckBox("High School");
         JCheckBox ch5= new JCheckBox("High School");
 
+        //setting the location and the size of the
         ch1.setBounds(100,100,250,50);
         ch2.setBounds(100,150,250,50);
         ch3.setBounds(100,200,250,50);
         ch4.setBounds(100,250,250,50);
         ch5.setBounds(100,300,250,50);
 
+        //Making a instance oif the font class/
         Font f=new Font("Arial",Font.BOLD,35);
         ch1.setFont(f);
         ch2.setFont(f);
