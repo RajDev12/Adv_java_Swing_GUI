@@ -64,14 +64,14 @@ public class My_Order {
 //        c.add(textarea);
 //        c.setBackground(Color.lightGray);
         //Anonymous method implementation
-        btnorder.addActiveListner(new ActionListener()){
-            @Override
-                    public  void actionPerformed(ActionEvent e){
-                int amount=0;
-                //only use else if when only one item should be selected, for all possible choosing selkection use if
-            if()
-            }
-        }
+//        btnorder.addActiveListner(new ActionListener()){
+//            @Override
+//                    public  void actionPerformed(ActionEvent e){
+//                int amount=0;
+//                //only use else if when only one item should be selected, for all possible choosing selkection use if
+//            if()
+//            }
+//        }
 
 
 
