@@ -5,7 +5,7 @@ import java.awt.*;
 
 class MyList extends JFrame
 {
-    String values[]=
+    String[] values =
             {
                     "one","two","three","four",
                     "Five","Six","Seven","Eight",

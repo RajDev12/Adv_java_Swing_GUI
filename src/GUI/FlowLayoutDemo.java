@@ -5,7 +5,7 @@ import java.awt.*;
 
 //Types of layout
 //1.Null Layout-when the component position is defined by us
-//2.border Layout-top,down,right,left
+//2.border Layout-top,Bottom,right,left,center
 //3.flow layout-Arrange the component automatically
 //4.Grid Layout-Matrix
 //5.Gridbag Layout-like grid + but resizable

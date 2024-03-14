@@ -46,8 +46,17 @@ class MyFrame5 extends JFrame implements MouseListener {
 
     @Override
     public void mouseClicked(MouseEvent e) {
-        ta.setText(ta.getText()+ "Mouse Clicked");
-    }
+        Graphics g=getGraphics();
+        g.setColor(Color.BLUE);
+        g.fillOval(e.getX(),e.getY(),50,60);
+
+        }
+//    }
+//
+//    @Override
+//    public void mouseClicked(MouseEvent e) {
+//        ta.setText(ta.getText()+ "Mouse Clicked");
+//    }
 
     @Override
     public void mousePressed(MouseEvent e) {
