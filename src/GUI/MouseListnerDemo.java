@@ -4,9 +4,9 @@ package GUI;
 //1.mouseEntered
 //2.mouseExited
 //3.mousePressed
-//mouseClicked
-//mouseReleased
-//addMouseListner
+//4.mouseClicked
+//5.mouseReleased
+//6.addMouseListner
 
 
 import javax.swing.*;

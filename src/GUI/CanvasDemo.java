@@ -13,7 +13,7 @@ class MyFrame9 extends Canvas
         g.drawString("KE001",20,50);
         g.fillRect(100,100,50,60);
         g.fillOval(80,50,100,150);
-        g.fill
+//        g.fill
 
     }
 }
