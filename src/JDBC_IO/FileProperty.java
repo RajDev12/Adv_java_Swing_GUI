@@ -13,7 +13,7 @@ public class FileProperty {
         System.out.println(p.subpath(0,2));
         System.out.println(p.getName(1));
         System.out.println(p.getRoot());
-//        System.out.println(files.exists(p,LinkOption.NOFOLLOW_LINKS());
+//      System.out.println(files.exists(p,LinkOption.NOFOLLOW_LINKS());
         System.out.println();
     }
 }
